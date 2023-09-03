@@ -1,0 +1,15 @@
+{
+  "name": "cursoecmascripthistoriayversionesjavascript",
+  "version": "1.0.0",
+  "description": "Repositorio de GitHub para el curso de ECMAScript: Historia y Versiones de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Gonzalo POozo <gonzalopozo2005@gmail.com>",
+  "license": "MIT"
+}
