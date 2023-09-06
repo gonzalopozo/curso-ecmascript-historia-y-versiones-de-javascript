@@ -10,6 +10,7 @@
     "javascript",
     "ecmascript"
   ],
-  "author": "Gonzalo POozo <gonzalopozo2005@gmail.com>",
-  "license": "MIT"
+  "author": "Gonzalo Pozo <gonzalopozo2005@gmail.com>",
+  "license": "MIT",
+  "type": "module"
 }
